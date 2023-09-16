@@ -35,4 +35,4 @@ Hello GuQin . Hello , Git !
 Hello GuQin . Hello , Git !
 Hello GuQin . Hello , Git !
 Hello GuQin . Hello , Git ! master test
-Hello GuQin . Hello , Git !
+Hello GuQin . Hello , Git ! hot-fix test
